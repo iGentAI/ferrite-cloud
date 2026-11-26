@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Security report
+    url: https://github.com/iGentAI/ferrite-cloud/security/policy
+    about: Report a vulnerability privately by email to security@ferrite.cloud, never in a public issue.
+  - name: Documentation
+    url: https://docs.ferrite.cloud
+    about: Guides, reference and the knowledge base.

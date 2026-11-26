@@ -1,0 +1,20 @@
+name: Question
+description: Ask how to do something on Ferrite, or whether something is supported.
+labels: ["question"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        The documentation at https://docs.ferrite.cloud and its knowledge base answer the common questions. Leave tokens, passwords and other secrets out of a question.
+  - type: textarea
+    id: question
+    attributes:
+      label: Your question
+      description: What you are trying to do, and what you have tried so far.
+    validations:
+      required: true
+  - type: input
+    id: client
+    attributes:
+      label: Agent and CLI version
+      description: The coding agent you use, and the output of `ferrite --version` if you use the CLI.
