@@ -34,6 +34,7 @@ The [documentation](https://docs.ferrite.cloud) covers both routes for each agen
 | [ferrite-docs](https://github.com/iGentAI/ferrite-docs) | The source of the documentation at docs.ferrite.cloud |
 | [ferrite-agent-ready](https://github.com/iGentAI/ferrite-agent-ready) | Scanners that measure how well a website serves AI agents |
 | [ferrite-agent-matrix](https://github.com/iGentAI/ferrite-agent-matrix) | How each coding agent connects to an MCP server, client by client |
+| [ferrite-showcase-macalicious](https://github.com/iGentAI/ferrite-showcase-macalicious) | Macalicious: macOS 10.15 Catalina rebuilt as React components, with a desktop of 49 applications running on Ferrite |
 | [ferrite-showcase-buzz](https://github.com/iGentAI/ferrite-showcase-buzz) | Buzz on Ferrite: a team workspace for people and AI teammates, rebuilt as one Ferrite application |
 | [ferrite-showcase-swatchbook](https://github.com/iGentAI/ferrite-showcase-swatchbook) | Swatchbook: a palette gallery whose design is data, made to be forked and restyled |
 
