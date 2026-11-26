@@ -30,6 +30,7 @@ The [documentation](https://docs.ferrite.cloud) covers both routes for each agen
 | [ferrite-cli](https://github.com/iGentAI/ferrite-cli) | The installer and the release archives of the `ferrite` CLI, with their checksums |
 | [ferrite-packages](https://github.com/iGentAI/ferrite-packages) | Source packages that `ferrite add` installs into an application, and the package index |
 | [ferrite-examples](https://github.com/iGentAI/ferrite-examples) | Complete sample applications that build and test on your own machine |
+| [ferrite-sdk](https://github.com/iGentAI/ferrite-sdk) | The Rust crates a Ferrite application is written against, with the local test harness and checker |
 | [ferrite-docs](https://github.com/iGentAI/ferrite-docs) | The source of the documentation at docs.ferrite.cloud |
 | [ferrite-agent-ready](https://github.com/iGentAI/ferrite-agent-ready) | Scanners that measure how well a website serves AI agents |
 | [ferrite-agent-matrix](https://github.com/iGentAI/ferrite-agent-matrix) | How each coding agent connects to an MCP server, client by client |
